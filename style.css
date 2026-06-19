@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #87CEEB;
+    text-align: center;
+}
+
+.container {
+    background:white;
+    width: 350px;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+select, button {
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+button{
+    background-color: aquamarine;
+    
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
